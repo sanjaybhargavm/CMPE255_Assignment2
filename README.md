@@ -16,6 +16,10 @@ https://colab.research.google.com/drive/18YjxL7C8ZjWqCgNLrTAEReROmsOvb45e?usp=sh
 Anomaly Detection - Level Beginner         
 https://colab.research.google.com/drive/1BfbA1AXp6KBIEdp02yRQeHhty7wNLtuQ?usp=sharing 
 
-Association Rules Mining - Level Beginner  :
+Association Rules Mining - Level Beginner  
+https://colab.research.google.com/drive/1Jl402Yvfoe-GA2bWlm44pCO2y9EFmYNV?usp=sharing
+
 Time Series Forecasting - Univariate without Exogenous Variables
+
 Time Series Forecasting - Univariate with Exogenous Variables
+
