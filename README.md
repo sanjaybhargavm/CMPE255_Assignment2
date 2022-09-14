@@ -19,8 +19,8 @@ https://colab.research.google.com/drive/1BfbA1AXp6KBIEdp02yRQeHhty7wNLtuQ?usp=sh
 Association Rules Mining - Level Beginner  
 https://colab.research.google.com/drive/1Jl402Yvfoe-GA2bWlm44pCO2y9EFmYNV?usp=sharing
 
-Time Series Forecasting - Univariate without Exogenous Variables
+Time Series Forecasting - Univariate without Exogenous Variables  
 https://colab.research.google.com/drive/1Lfq6pGQcFlOVeiL-o51p6Dkbb7SSbHsq?usp=sharing
 
-Time Series Forecasting - Univariate with Exogenous Variables
+Time Series Forecasting - Univariate with Exogenous Variables.  
 https://colab.research.google.com/drive/1OaNHXygJ3enVqH0wo_zvcbiMJM7OMlob?usp=sharing
