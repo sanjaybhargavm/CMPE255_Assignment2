@@ -16,11 +16,11 @@ https://colab.research.google.com/drive/18YjxL7C8ZjWqCgNLrTAEReROmsOvb45e?usp=sh
 Anomaly Detection - Level Beginner(Dataset - lung_cancer.csv)      
 https://colab.research.google.com/drive/1BfbA1AXp6KBIEdp02yRQeHhty7wNLtuQ?usp=sharing 
 
-Association Rules Mining - Level Beginner(Dataset - 
+Association Rules Mining - Level Beginner(Dataset - retaildata.csv)
 https://colab.research.google.com/drive/1Jl402Yvfoe-GA2bWlm44pCO2y9EFmYNV?usp=sharing
 
-Time Series Forecasting - Univariate without Exogenous Variables(Dataset -  
+Time Series Forecasting - Univariate without Exogenous Variables(Dataset - corn1.csv) 
 https://colab.research.google.com/drive/1Lfq6pGQcFlOVeiL-o51p6Dkbb7SSbHsq?usp=sharing
 
-Time Series Forecasting - Univariate with Exogenous Variables(Dataset -  
+Time Series Forecasting - Univariate with Exogenous Variables(Dataset - Month_Value_1.csv) 
 https://colab.research.google.com/drive/1OaNHXygJ3enVqH0wo_zvcbiMJM7OMlob?usp=sharing
