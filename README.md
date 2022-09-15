@@ -2,10 +2,10 @@
 Assignment 2
 
 Binary Classification - Level Intermediate(Dataset - brain_stroke.csv)    
-https://colab.research.google.com/drive/1QcAGcnJwmR6z574BKmOEgBKSbfdqs8c3?usp=sharing (gradio link: https://27545.gradio.app)
+https://colab.research.google.com/drive/1QcAGcnJwmR6z574BKmOEgBKSbfdqs8c3?usp=sharing (gradio link: https://18366.gradio.app)
 
 Multiclass Classification - Level Beginner(Dataset - breast-cancer.csv)     
-https://colab.research.google.com/drive/1qq2bBWlSEHVk_b5b6-_fPJCUN0VaTV6S?usp=sharing  (gradio link: https://27848.gradio.app)
+https://colab.research.google.com/drive/1qq2bBWlSEHVk_b5b6-_fPJCUN0VaTV6S?usp=sharing  (gradio link: https://27456.gradio.app)
 
 Regression - Level Intermediate(Dataset - WineQT.csv)            
 https://colab.research.google.com/drive/1urJX4zVciUNMWS1Q2bBu3SpXukS0XTz-?usp=sharing 
